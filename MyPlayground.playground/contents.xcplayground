@@ -3,6 +3,6 @@
     <pages>
         <page name='basic'/>
         <page name='controll flow'/>
-        <page name='repeate while'/>
+        <page name='function'/>
     </pages>
 </playground>
