@@ -12,3 +12,5 @@ Basic Swift @dicoding
 4. <a href="https://github.com/yogithesymbian/BermainKata-macOS-Terminal">Controll Flow <br>[https://github.com/yogithesymbian/PenghitungNilai-macOS-Terminal]</a>
 
 5. <a href="https://github.com/yogithesymbian/ResepMakanan-macOS-Terminal">Collection Type <br>[https://github.com/yogithesymbian/ResepMakanan-macOS-Terminal]</a>
+
+6. <a href="https://github.com/yogithesymbian/MotorListrik-macOS-Terminal">Closure <br>[https://github.com/yogithesymbian/MotorListrik-macOS-Terminal]</a
