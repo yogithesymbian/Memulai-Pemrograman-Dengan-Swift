@@ -6,5 +6,6 @@
         <page name='function'/>
         <page name='closure'/>
         <page name='enumeration'/>
+        <page name='oop'/>
     </pages>
 </playground>
