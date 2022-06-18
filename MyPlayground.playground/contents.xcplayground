@@ -7,5 +7,6 @@
         <page name='closure'/>
         <page name='enumeration'/>
         <page name='oop'/>
+        <page name='memory arc'/>
     </pages>
 </playground>
