@@ -14,3 +14,7 @@ Basic Swift @dicoding
 5. <a href="https://github.com/yogithesymbian/ResepMakanan-macOS-Terminal">Collection Type <br>[https://github.com/yogithesymbian/ResepMakanan-macOS-Terminal]</a>
 
 6. <a href="https://github.com/yogithesymbian/MotorListrik-macOS-Terminal">Closure <br>[https://github.com/yogithesymbian/MotorListrik-macOS-Terminal]</a
+
+7. <a href="https://github.com/yogithesymbian/Enumeration-Menu-Makanan">Enumeration <br>[https://github.com/yogithesymbian/Enumeration-Menu-Makanan]</a
+  
+8. <a href="https://github.com/yogithesymbian/Program-Member-Dicoding">OOP <br>[https://github.com/yogithesymbian/Program-Member-Dicoding]</a
